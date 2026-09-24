@@ -28,20 +28,31 @@ Você precisa ter o **JDK (Java Development Kit)** instalado em sua máquina.
 
 ### Passo a Passo
 
-1.  **Clonar ou copiar o código:**
-    Crie um arquivo chamado `Main.java` e cole o código do projeto.
+1.  **Clonar o repositório:**
+    Abra o terminal ou prompt de comando na pasta desejada e execute:
+    ```bash
+    git clone https://github.com/Al3ncar/calculadora_java.git
+    ```
 
-2.  **Compilar o arquivo:**
-    Abra o terminal na pasta onde o arquivo foi salvo e execute o seguinte comando:
+2.  **Navegar até a pasta do projeto:**
+    ```bash
+    cd nome-do-repositorio
+    ```
+
+3.  **Compilar o arquivo:**
+    Compile o código-fonte Java com o comando:
     ```bash
     javac Main.java
     ```
 
-3.  **Executar o programa:**
-    Após a compilação, inicie o programa com o comando:
+4.  **Executar o programa:**
+    Inicie a aplicação:
     ```bash
     java Main
     ```
+
+> *Nota: Caso prefira não usar o Git, você pode criar manualmente um arquivo chamado `Main.java`, colar o código e seguir a partir do passo 3.*
+
 
 ## 📝 Exemplo de Uso
 
