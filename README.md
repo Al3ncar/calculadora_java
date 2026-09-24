@@ -59,8 +59,7 @@ Resultado: 8.0
 *   **Status:** Concluído / Funcional
 
 ## 👤 Autor
-
-*   **Igor Alencar**
+*   [https://www.linkedin.com/in/igoralencar/](https://www.linkedin.com/in/igoralencar/)
 
 ## 🛡️ Licença
 
